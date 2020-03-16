@@ -1,4 +1,6 @@
-"# mid term project cs 634" 
+# mid term project cs 634
+
+======
 
 ### Frequent item set analysis:
 Brute Force approach
